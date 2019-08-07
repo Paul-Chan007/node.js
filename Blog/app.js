@@ -3,6 +3,7 @@ var express = require("express");
 var swig = require("swig");
 var mongoose = require("mongoose");
 var bodyParser = require("body-parser");
+var Cookies = require("cookies");
 
 //创建app应用 =>node.js的http.createServer();
 var app=express();
@@ -23,6 +24,11 @@ swig.setDefaults({cache:false});
 
 //配置bodyParser中间件，用于解析前端传过来的参数
 app.use(bodyParser.urlencoded({extended:true}))
+//cookie
+app.use(function(req,res,next){
+    req.cookies = new Cookies(req,res);
+    next();
+})
 
 //http请求
 app.use("/",require("./routers/main"));
