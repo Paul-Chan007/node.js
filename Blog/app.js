@@ -13,8 +13,11 @@ app.use("/firestatic",express.static(__dirname+"/public/firestatic"));///
 app.use("/environmentstatic",express.static(__dirname+"/public/environmentstatic"));///
 
 //模块解析
+//定义当前应用所使用的模板引擎 第一个参数：模板引擎的名称，同时也是模板文件的后缀，第二个参数表示用于解析处理模板内容的方法
 app.engine("html",swig.renderFile);
+//设置模板文件存放的目录，第一个参数必须是views，第二个参数是目录
 app.set("views","./views");
+//注册所使用的模板引擎，第一个参数必须是 view engine，第二个参数和app.engine这个方法中定义的模板引擎的名称（第一个参数）是一致的
 app.set("view engine","html");
 swig.setDefaults({cache:false});
 
