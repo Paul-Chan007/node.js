@@ -3,7 +3,6 @@
  */
 
 $(function() {
-
     var $loginBox = $('#loginBox');
     var $registerBox = $('#registerBox');
     var $userInfo = $('#userInfo');
@@ -60,19 +59,11 @@ $(function() {
             },
             dataType: 'json',
             success: function(result) {
-                console.log(result);
                 $loginBox.find('.colWarning').html(result.message);
 
                 if (!result.code) {
                     //登录成功
-                    // window.location.reload();
-                    setTimeout(function () {
-                        $loginBox.hide();
-                        $userInfo.show();
-
-                        //显示登陆用户信息
-                        $userInfo.find(".username").html(result.userInfo.username);
-                    },1000)
+                    window.location.reload();
                 }
             }
         })

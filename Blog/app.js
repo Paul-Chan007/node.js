@@ -4,6 +4,7 @@ var swig = require("swig");
 var mongoose = require("mongoose");
 var bodyParser = require("body-parser");
 var Cookies = require("cookies");
+var User = require("./models/User");
 
 //创建app应用 =>node.js的http.createServer();
 var app=express();
@@ -27,7 +28,21 @@ app.use(bodyParser.urlencoded({extended:true}))
 //cookie
 app.use(function(req,res,next){
     req.cookies = new Cookies(req,res);
-    next();
+    req.userInfo = {};
+    //解析登陆用户的信息
+    if(req.cookies.get("userInfo")){
+        try{
+            req.userInfo = JSON.parse(req.cookies.get("userInfo"));
+            User.findById(req.userInfo._id).then(function(userInfo){
+                req.userInfo.isAdmin = Boolean(userInfo.isAdmin);
+                next();
+            })
+        }catch (e) {
+            next();
+        }
+    }else{
+        next();
+    }
 })
 
 //http请求
