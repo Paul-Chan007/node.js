@@ -11,8 +11,6 @@ var app=express();
 
 //静态文件托管
 app.use("/public",express.static(__dirname+"/public"));
-app.use("/firestatic",express.static(__dirname+"/public/firestatic"));///
-app.use("/environmentstatic",express.static(__dirname+"/public/environmentstatic"));///
 
 //模块解析
 //定义当前应用所使用的模板引擎 第一个参数：模板引擎的名称，同时也是模板文件的后缀，第二个参数表示用于解析处理模板内容的方法
@@ -50,8 +48,6 @@ app.use("/",require("./routers/main"));
 app.use("/admin",require("./routers/admin"));
 app.use("/api",require("./routers/api"));
 
-app.use("/fire",require("./routers/fire"));///
-app.use("/environment",require("./routers/environment"))///
 
 mongoose.connect("mongodb://localhost:27017/blog",{useNewUrlParser:true},function (err) {
     if(err){

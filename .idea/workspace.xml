@@ -2,12 +2,114 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba37e591-4e4b-40cd-8086-d42716f730f8" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/public/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/public/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/routers/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/routers/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/css/app.236ce84d7eb8075e5b5d9880a3cb4b8c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/css/app.236ce84d7eb8075e5b5d9880a3cb4b8c.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/fonts/element-icons.535877f.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/fonts/element-icons.732389d.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/fonts/glyphicons-halflings-regular.448c34a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/fonts/glyphicons-halflings-regular.e18bbf6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/fonts/glyphicons-halflings-regular.f4769f9.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/fonts/glyphicons-halflings-regular.fa27723.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/camera.a683eef.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/camera3.908f2d5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/car3.b9cd7d9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/face.efcddc7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/file.0ea811e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/glyphicons-halflings-regular.8988968.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/inactive.e7f2690.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/logo1.8a4129d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/planet.6b3db1d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/robot5.9cb61fd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/server1.871498f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/trash6.0bea4e2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/worker2.a57d576.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/余桂巧.1b7917c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/凌月兰.01a6c5b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/吕秀英.4a6c104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/张玉香.5cc971b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/方有娣.b7833e3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/朱顺仙.827ecaa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/毕自华.9874ef0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/汪大丽.d59e73e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/洪进月.6ca3064.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/王建国.4a1a5cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/田心建.03c209b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/程小香.fc4d62f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/郝绍林.dd7a2dc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/陈宝国.85af482.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/陈文芳.3153139.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/陈月华.704efc3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/img/黄勗成.9655615.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/js/app.e9229f0032e22b2de512.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/js/app.e9229f0032e22b2de512.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/js/manifest.8a8dd2e96be73a04f438.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/js/manifest.8a8dd2e96be73a04f438.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/js/vendor.a926b49f2531ff8d8e95.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/js/vendor.a926b49f2531ff8d8e95.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/environmentstatic/media/camera1.2f611be.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/css/app.61a479bd05f4da2aec297eaabc35a88a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/css/app.61a479bd05f4da2aec297eaabc35a88a.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/data/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/glyphicons-halflings-regular.448c34a.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/glyphicons-halflings-regular.e18bbf6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/glyphicons-halflings-regular.f4769f9.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/glyphicons-halflings-regular.fa27723.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/ionicons.143146f.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/ionicons.99ac330.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/fonts/ionicons.d535a25.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/boat2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/boat4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/camera.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/camera2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/plane.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/plane2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/robot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/robot2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/soldier.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/soldier1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/images/soldier2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/2.4997b33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/3.69ef64a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/car.d9041bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/car1.b1e3e5c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/control1.5d54297.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/control2.c4c8cc4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/fireman.cfceadc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/glyphicons-halflings-regular.8988968.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/hydrant.8153f1a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/hydrant5.f3e89f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/hydrant6.ca386fb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/ionicons.a2c4a26.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/logo.8a4129d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/micro.ed013ab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/mini.244570e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/mini1.cfbafbd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/mini2.350ce69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/phone1.07a6d77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/room.470db84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/smoke3.0100a31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/station.cb02921.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/station1.207c9a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/station2.39ce782.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/vioce1.5f5902f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/img/wsd1.0988a70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/js/app.542b7f99562621599726.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/js/app.542b7f99562621599726.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/js/manifest.b69f3a2040264e8d8c2c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/js/manifest.b69f3a2040264e8d8c2c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/js/vendor.d2712453cfe1a6d6a53c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/js/vendor.d2712453cfe1a6d6a53c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/media/1.6b359b3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/public/firestatic/media/2.fe3456e.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/routers/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/routers/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/routers/environment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/routers/fire.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Blog/routers/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/routers/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/schemas/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/schemas/users.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blog/views/main/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Blog/views/main/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/views/environment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Blog/views/fire.html" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,51 +124,108 @@
     <session id="-565923604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.17" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.17" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="4" />
-          <entry key="js" value="33" />
+          <entry key="html" value="8" />
+          <entry key="js" value="42" />
           <entry key="json" value="1" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="4" />
+          <entry key="HTML" value="8" />
           <entry key="JSON" value="1" />
-          <entry key="JavaScript" value="33" />
+          <entry key="JavaScript" value="42" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="125" />
-          <entry key="js" value="1208" />
+          <entry key="html" value="722" />
+          <entry key="js" value="1492" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="125" />
-          <entry key="JavaScript" value="1208" />
+          <entry key="HTML" value="722" />
+          <entry key="JavaScript" value="1492" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog/routers/api.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog/routers/admin.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blog/views/admin/user_index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog/views/admin/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blog/views/admin/layout.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -82,9 +241,13 @@
         <option value="$PROJECT_DIR$/Blog/routers/api.js" />
         <option value="$PROJECT_DIR$/Blog/public/js/index.js" />
         <option value="$PROJECT_DIR$/Blog/schemas/users.js" />
-        <option value="$PROJECT_DIR$/Blog/app.js" />
         <option value="$PROJECT_DIR$/Blog/views/main/index.html" />
         <option value="$PROJECT_DIR$/Blog/routers/main.js" />
+        <option value="$PROJECT_DIR$/Blog/views/admin/layout.html" />
+        <option value="$PROJECT_DIR$/Blog/views/admin/index.html" />
+        <option value="$PROJECT_DIR$/Blog/app.js" />
+        <option value="$PROJECT_DIR$/Blog/routers/admin.js" />
+        <option value="$PROJECT_DIR$/Blog/views/admin/user_index.html" />
       </list>
     </option>
   </component>
@@ -102,13 +265,15 @@
       <path value="$PROJECT_DIR$/Blog/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="643" />
-    <option name="y" value="8" />
-    <option name="width" value="1041" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="913" />
     <option name="height" value="1005" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="添加" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -143,13 +308,6 @@
               <item name="node.js" type="b2602c69:ProjectViewProjectNode" />
               <item name="node.js" type="462c0819:PsiDirectoryNode" />
               <item name="Blog" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="node.js" type="b2602c69:ProjectViewProjectNode" />
-              <item name="node.js" type="462c0819:PsiDirectoryNode" />
-              <item name="Blog" type="462c0819:PsiDirectoryNode" />
               <item name="routers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,6 +327,13 @@
               <item name="node.js" type="462c0819:PsiDirectoryNode" />
               <item name="Blog" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="node.js" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node.js" type="462c0819:PsiDirectoryNode" />
+              <item name="Blog" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -178,12 +343,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\node.js\Blog\public\js" />
+      <recent name="F:\node.js\Blog\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\node.js\Blog\views\main" />
     </key>
@@ -204,16 +374,21 @@
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/node.js/Blog/views/main/index.html">
       <method v="2" />
     </configuration>
+    <configuration name="api.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="api.js" working-dir="$PROJECT_DIR$/Blog/routers">
+      <method v="2" />
+    </configuration>
     <configuration name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/Blog">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="Node.js.app.js" />
       <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.api.js" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Node.js.app.js" />
+        <item itemvalue="Node.js.api.js" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -233,21 +408,24 @@
       <workItem from="1565143538340" duration="33000" />
       <workItem from="1565174731106" duration="7034000" />
       <workItem from="1565226188102" duration="9966000" />
+      <workItem from="1565699275311" duration="89000" />
+      <workItem from="1565746069633" duration="12959000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28454000" />
+    <option name="totallyTimeSpent" value="41502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17228661" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.11275026" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.20824295" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.18655097" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -310,18 +488,53 @@
     <entry file="file://$PROJECT_DIR$/基础/input.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/models/User.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Blog/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/routers/admin.js">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Blog/public/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/routers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/views/main/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="115" selection-start-line="62" selection-start-column="115" selection-end-line="62" selection-end-column="115" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/routers/api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="78" column="38" lean-forward="true" selection-start-line="78" selection-start-column="38" selection-end-line="78" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/public/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/views/admin/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="40" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Blog/schemas/users.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -330,41 +543,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Blog/models/User.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Blog/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+        <state relative-caret-position="51">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/routers/api.js">
+    <entry file="file://$PROJECT_DIR$/Blog/views/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="87" column="31" lean-forward="true" selection-start-line="87" selection-start-column="31" selection-end-line="87" selection-end-column="31" />
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/routers/main.js">
+    <entry file="file://$PROJECT_DIR$/Blog/routers/admin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        <state relative-caret-position="357">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/views/main/index.html">
+    <entry file="file://$PROJECT_DIR$/Blog/views/admin/user_index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="62" column="115" lean-forward="true" selection-start-line="62" selection-start-column="115" selection-end-line="62" selection-end-column="115" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Blog/public/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="357">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
         </state>
       </provider>
     </entry>
